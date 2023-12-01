@@ -7,6 +7,6 @@
 - the script can be runed from Pycharm directly or from the executable file.
 - We have to install the following tool:
 - pip install pyinstaller (used for the creation of executable file)
+# Watch te video 
 
-
--[![Alt text](https://markdown-videos.deta.dev/youtube/oWeW8u_6HEQ)](https://youtu.be/oWeW8u_6HEQ)
+[![Alt text](https://markdown-videos.deta.dev/youtube/oWeW8u_6HEQ)](https://youtu.be/oWeW8u_6HEQ)
