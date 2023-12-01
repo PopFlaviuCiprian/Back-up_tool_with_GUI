@@ -8,4 +8,5 @@
 - We have to install the following tool:
 - pip install pyinstaller (used for the creation of executable file)
 
+
 [![Alt text](https://markdown-videos.deta.dev/youtube/oWeW8u_6HEQ)](https://youtu.be/oWeW8u_6HEQ)
