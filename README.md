@@ -9,4 +9,4 @@
 - pip install pyinstaller (used for the creation of executable file)
 
 
-[![Alt text](https://markdown-videos.deta.dev/youtube/oWeW8u_6HEQ)](https://youtu.be/oWeW8u_6HEQ)
+-[![Alt text](https://markdown-videos.deta.dev/youtube/oWeW8u_6HEQ)](https://youtu.be/oWeW8u_6HEQ)
